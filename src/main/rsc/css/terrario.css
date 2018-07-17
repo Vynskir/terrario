@@ -1,0 +1,8 @@
+.pane {
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.label {
+    -fx-alignment: center;
+}
